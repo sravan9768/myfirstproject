@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/myfirstproject/static/css/main.02a5ed09.css",
+    "main.js": "/myfirstproject/static/js/main.d0cbe12e.js",
+    "static/js/787.bd02f72e.chunk.js": "/myfirstproject/static/js/787.bd02f72e.chunk.js",
+    "static/media/vegbir.jpg": "/myfirstproject/static/media/vegbir.a7971ebfd9106e6275c4.jpg",
+    "static/media/masala.jpg": "/myfirstproject/static/media/masala.f4dd64f4906d42ddcbdb.jpg",
+    "static/media/banner.jpeg": "/myfirstproject/static/media/banner.05892fe97cce26a5d9e5.jpeg",
+    "static/media/dd.jpg": "/myfirstproject/static/media/dd.388d979e38862752a337.jpg",
+    "static/media/chhola.jpg": "/myfirstproject/static/media/chhola.a1458ef1370699c23212.jpg",
+    "static/media/logo.svg": "/myfirstproject/static/media/logo.2c20357cbc37f205741ca7146ac697e4.svg",
+    "static/media/paneer.jpg": "/myfirstproject/static/media/paneer.f04d2c563fe596463e47.jpg",
+    "static/media/idli.jpg": "/myfirstproject/static/media/idli.dc2d98fda6c7a903c64b.jpg",
+    "static/media/meals.jpeg": "/myfirstproject/static/media/meals.77bd2d3baa11e6cf3dcd.jpeg",
+    "static/media/dosa.jpg": "/myfirstproject/static/media/dosa.5c938f456ea86779ba13.jpg",
+    "static/media/Chicken-Biryani.jpg": "/myfirstproject/static/media/Chicken-Biryani.ef3851fd4f41cc53e2d8.jpg",
+    "index.html": "/myfirstproject/index.html",
+    "main.02a5ed09.css.map": "/myfirstproject/static/css/main.02a5ed09.css.map",
+    "main.d0cbe12e.js.map": "/myfirstproject/static/js/main.d0cbe12e.js.map",
+    "787.bd02f72e.chunk.js.map": "/myfirstproject/static/js/787.bd02f72e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.02a5ed09.css",
+    "static/js/main.d0cbe12e.js"
+  ]
+}
